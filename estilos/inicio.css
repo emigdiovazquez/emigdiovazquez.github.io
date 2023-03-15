@@ -1,0 +1,18 @@
+h2{
+    font-family: fantasy;
+    color: darkcyan;
+    text-align:center;
+    font-size: 30px;
+}
+figure{
+    float: left;
+    margin-right: 30px;
+    border: double darkcyan 10px;
+}
+footer{
+    clear: both;
+    margin-top: 130px;
+}
+main{
+    width: 96%
+}

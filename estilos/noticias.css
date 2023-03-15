@@ -1,0 +1,54 @@
+h3{
+    font-family: fantasy;
+    color: darkcyan;
+    text-align:center;
+    font-size: 30px;
+    clear: both;
+}
+h4{
+    text-align: center;
+    font-family:serif;
+}
+#art1{
+    display: inline-block;
+    margin-right:50px;
+}
+#art2{
+    display: inline-block;
+    margin-right: 50px
+}
+#art3{
+    display: inline-block;
+    margin-right: 50px
+}
+#art4{
+    display: inline-block;
+    margin-right: 50px
+}
+#img1{
+    float: right;
+}
+#img2{
+    float: right;
+    margin-right: 30px;
+    border: inset darkcyan 5px;
+}
+#img3{
+    float: right;
+    margin-right: 30px;
+    border: inset darkcyan 5px;
+}
+#img4{
+    float: right;
+    margin-right: 30px;
+    border: inset darkcyan 5px;
+}
+div{
+    width: 39%;
+    display: inline-block;
+    clear: both;
+    margin: 60px;
+    border: inset darkcyan 5px;
+    padding: 5px;
+    
+}

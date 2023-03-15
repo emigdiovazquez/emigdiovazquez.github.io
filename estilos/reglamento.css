@@ -1,0 +1,40 @@
+h3{
+    font-family: fantasy;
+    color: darkcyan;
+    text-align:center;
+    font-size: 30px;
+    clear: both;
+}
+h4{
+    text-align: center;
+    font-family:serif;
+}
+#div{
+    column-count:2;
+    column-gap:10px;
+    column-rule:6px ridge darkcyan;   
+}
+#art1{
+    text-align: left;
+    clear: both;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#art2{
+    margin: 40px;
+    text-align:left;
+    clear: both;
+}
+#art3{
+    margin: 40px;
+    text-align:left;
+    clear: both;
+}
+#art4{
+    margin: 40px;
+    text-align:left;
+    clear: both;
+}
+#img4{
+    margin-bottom: 230px;
+}

@@ -1,0 +1,38 @@
+ #logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#logo2{
+    display: inline-block;
+    width: 18%;
+    float: right
+}
+#tttexto{
+    display: inline-block;
+    width: 55%;
+    text-align: center;
+    margin-top: 90px;
+    font-family: fantasy;
+}
+#barranav{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 13%;
+    background-color: mediumaquamarine;
+    border: solid;
+    padding: 6px;
+    margin-right: 25.8px
+}
+#marco{
+    width: 100%;
+    height: 400px;
+    padding: 8px;
+}
+#pie{
+    border: double;
+    background-color: mediumaquamarine;
+    text-align: center;
+}
